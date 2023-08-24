@@ -6,7 +6,7 @@ You can check that here -> https://github.com/apoorva-sin/Myntra-EDA
 
 Please find the dashboard showcased below.
 
-![](Dashboard_In_Motion.GIF)
+![](Dashboard_In_Motion.gif)
 
 ![](Dashboard_Screenshot.PNG)
 
